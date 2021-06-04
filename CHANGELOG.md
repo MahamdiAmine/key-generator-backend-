@@ -1,3 +1,7 @@
+## [1.2.0] - 2021-06-04
+### Added
+- Tests for the api
+
 ## [1.1.0] - 2021-06-04
 ### Fixed
 - CORS_ORIGIN_ALLOW_ALL
