@@ -1,3 +1,7 @@
+## [1.2.1] - 2021-06-04
+### Security
+- Secure the deployment 
+
 ## [1.2.0] - 2021-06-04
 ### Added
 - Tests for the api
