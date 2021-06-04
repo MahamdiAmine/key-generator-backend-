@@ -1,11 +1,8 @@
-## [0.2.0] - 2021-06-04
-### Added
-- REST api for the key model
-- Create the api application
-- Serialize the key model
+## [1.0.0] - 2021-06-04
 ### Changed
-- Project's settings (register the new app)
-- Project's urls (add api urls)
+- Project's settings (installed apps)
+### Security
+- Token authentication
 
 ## [0.1.1] - 2021-06-04
 ### Added

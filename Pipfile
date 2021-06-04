@@ -10,6 +10,7 @@ flake8 = "*"
 black = "*"
 djangorestframework = "*"
 pylint-django = "*"
+django-rest-auth = "*"
 
 [dev-packages]
 
