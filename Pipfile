@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 python-decouple = "*"
 django = "*"
+flake8 = "*"
+black = "*"
+djangorestframework = "*"
+pylint-django = "*"
 
 [dev-packages]
 
