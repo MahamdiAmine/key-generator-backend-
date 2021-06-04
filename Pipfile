@@ -11,6 +11,7 @@ black = "*"
 djangorestframework = "*"
 pylint-django = "*"
 django-rest-auth = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 

@@ -1,3 +1,7 @@
+## [1.1.0] - 2021-06-04
+### Fixed
+- CORS_ORIGIN_ALLOW_ALL
+
 ## [1.0.0] - 2021-06-04
 ### Changed
 - Project's settings (installed apps)
