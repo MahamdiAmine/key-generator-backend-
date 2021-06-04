@@ -4,7 +4,7 @@ from decouple import config
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-#SECRET_KEY = config('SECRET_KEY', default='** -- Change Me :( # ')
+SECRET_KEY = config('SECRET_KEY', default='** -- Change Me :( # ')
 
 DEBUG = config('DEBUG', default=True, cast=bool)
 
@@ -22,6 +22,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'key',
 ]
 
 MIDDLEWARE = [
