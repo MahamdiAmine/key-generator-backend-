@@ -1,3 +1,9 @@
+## [1.3.0] - 2021-06-05
+### Changed
+- Connect to heroku postgres database 
+### Removed
+- Sqlite3 database
+
 ## [1.2.1] - 2021-06-04
 ### Security
 - Secure the deployment 
