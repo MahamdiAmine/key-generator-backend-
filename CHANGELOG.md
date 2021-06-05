@@ -1,3 +1,9 @@
+## [1.3.1] - 2021-06-05
+### Added
+- Add the following file (Heroku deployment)
+- ProcFile
+- runtime.txt
+
 ## [1.3.0] - 2021-06-05
 ### Changed
 - Connect to heroku postgres database 
