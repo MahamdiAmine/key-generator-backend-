@@ -1,4 +1,4 @@
-# Brenko Code challenge
+# Brenco Code challenge
 The challenge follows modern application-design standards of having a centralized back-end with separate clients. You will be required to build the following:
 1. A RESTful backend API
 2. A mobile application (Android or iOS)
@@ -37,12 +37,7 @@ To run the automated tests for this system:
 
 ## Deployment
 
-This project will be deployed to heroku
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+This project is deployed to [Heroku](https://keygenerator.herokuapp.com/)
 
 ## Versioning
 
