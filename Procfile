@@ -1,1 +1,1 @@
-web: gunicorn app_generator.wsgi —log-file -
+web: gunicorn key_generator.wsgi —log-file -

@@ -1,3 +1,10 @@
+## [3.0.0] - 2021-06-05
+### Added
+- Create another branch(heroku-deploy) for deploying to heroku
+- Install whitenoise
+### Changed
+- Settings file
+
 ## [2.0.0] - 2021-06-05
 ### Added
 - Register the key model in the django administration
