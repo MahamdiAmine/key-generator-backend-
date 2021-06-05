@@ -41,7 +41,7 @@ This project is deployed to [Heroku](https://keygenerator.herokuapp.com/)
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MahamdiAmine/key-generator-backend-/tags).
 
 ## License
 
