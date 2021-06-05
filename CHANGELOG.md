@@ -1,3 +1,7 @@
+## [2.0.0] - 2021-06-05
+### Added
+- Register the key model in the django administration
+
 ## [1.3.1] - 2021-06-05
 ### Added
 - Add the following file (Heroku deployment)
